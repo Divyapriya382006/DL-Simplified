@@ -22,6 +22,8 @@ Check out the official **Deep Learning Simplified** website for more information
 
 </div>
 
+<br>
+
 ## 📑 Table of Contents
 - [Introduction](#-deep-learning-simplified)
 - [Welcome Contributors! 🔴](#-welcome-contributors)
