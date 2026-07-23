@@ -1,0 +1,15 @@
+# Exact version pin (Recommended for applications / production)
+fastapi==0.110.0
+uvicorn==0.28.0
+
+# Minimum version constraint
+requests>=2.31.0
+
+# Version range constraint (compatible major versions)
+pydantic>=2.0.0,<3.0.0
+
+# Version specification with optional extras
+httpx[http2]>=0.27.0
+
+# Direct package install from a Git repository
+git+https://github.com/psf/black.git@main
